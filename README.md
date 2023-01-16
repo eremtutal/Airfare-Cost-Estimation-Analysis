@@ -1,10 +1,10 @@
 # Airfare Cost Estimation Analysis
 
-## Data Cleaning
-I removed the NULL values.
+## Objective
+A company is planning the airfare budget for next year. With the help of the data from the current year, 2013, we're digging into this data for more insight. Some things we want to see are the airlines, booking sources, ticket prices, etc. 
 
 ## Visualizations
-I created three bars. 
+<file:///Users/eremtutal/Desktop/Screen%20Shot%202023-01-16%20at%203.05.23%20PM.png" width="350" height="auto" >
 
 ## Take Aways
 The analysis showed that there was a **big** increase in the cost around *July*.
